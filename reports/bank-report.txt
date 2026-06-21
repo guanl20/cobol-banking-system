@@ -1,0 +1,22 @@
+================================================
+     COBOL BANKING SYSTEM - ACCOUNT REPORT
+     Generated: 2025-01-01
+================================================
+
+ID:10000001 Alice Johnson                  TYPE:S BAL:$0,000,025,000.00 ST:A
+ID:10000002 Bob Smith                      TYPE:C BAL:$0,000,008,500.75 ST:A
+ID:10000003 Carol White                    TYPE:I BAL:$0,000,150,000.00 ST:A
+ID:10000004 David Brown                    TYPE:S BAL:$0,000,042,000.50 ST:A
+ID:10000005 Eve Davis                      TYPE:C BAL:$0,000,003,200.25 ST:F
+ID:10000006 Frank Miller                   TYPE:I BAL:$0,000,500,000.00 ST:A
+
+--- ACCOUNT SUMMARY ---
+Total Accounts  : 0006
+Savings Accounts: 0002
+Checking Accts  : 0002
+Investment Accts: 0002
+Frozen Accounts : 0001
+Total Assets    : $0,000,728,701.50
+Savings Total   : $0,000,067,000.50
+Checking Total  : $0,000,011,701.00
+Investment Total: $0,000,650,000.00
